@@ -1,0 +1,28 @@
+name: IA
+favicon: null
+layout_spectrum: 0.8844266482628882
+typography_spectrum: 0.9361486269626766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.36876417486928403
+  lightness: 0.5970722187776119
+  saturation: 0.20134148700162768
+  rhythmicContrast: 0.2472142274491489
+purpose: []
